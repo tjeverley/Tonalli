@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/Blueprints/BP_MultiLockGate.uasset",
+				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/Blueprints/BP_RatchetSystem.uasset",
+				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/K2/SE8AS6WENRGOYWQ6DI0XPY.uasset",
+				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/ThirdPerson/Blueprints/BP_Inventory.uasset",
+				"E:/Unreal Projects/Tonalli/Content/Blueprints/BP_MultiLockGate.uasset",
+				"E:/Unreal Projects/Tonalli/Content/Blueprints/BP_KeyA.uasset",
+				"E:/Unreal Projects/Tonalli/Content/UI/WBP_PickUpInteraction.uasset",
+				"E:/Unreal Projects/Tonalli/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"E:/Unreal Projects/Tonalli/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Unreal Projects/Tonalli/Content/UI/WBP_KeyInteraction.uasset",
+				"E:/Unreal Projects/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/Tonalli/Content/ThirdPerson/Blueprints/BP_Inventory.uasset",
+				"E:/Unreal Projects/Tonalli/Content/Blueprints/BP_KeyB.uasset",
+				"E:/Unreal Projects/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ED/4236LYV4D90U2116NR7LIX.uasset",
+				"E:/Unreal Projects/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8B/I1CV2U5QP239ZJUK72F381.uasset",
+				"E:/Unreal Projects/Tonalli/Content/UI/WBP_KeyPickUp.uasset",
+				"E:/Unreal Projects/Tonalli/Content/UI/WBP_KeyPlace.uasset",
+				"E:/Unreal Projects/Tonalli/Content/UI/WBP_KeyMissing.uasset",
+				"E:/Unreal Projects/Tonalli/Content/Materials/M_Key.uasset",
+				"E:/Unreal Projects/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QI/RYCBBU3Y3O5HRPLO4Q01YU.uasset"
+			]
+		}
+	]
+}
