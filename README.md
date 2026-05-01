@@ -5,7 +5,10 @@ Current Mechanics Implemented:
 - Pick up items
 - Healing
 - Sprinting
-- Stamina reduction & restoration
+- Stamina reduction & restoration (fixed)
 - Multi-lock gates
 - Capstan ratchet/hoist system
 - Glyph puzzle
+- Pick up gears/cogs
+- Gear/Cog Wall Puzzle (in progress)
+- Game Pad Compatibility
