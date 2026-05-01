@@ -8,4 +8,4 @@ Current Mechanics Implemented:
 - Stamina reduction & restoration
 - Multi-lock gates
 - Capstan ratchet/hoist system
-- Glyph puzzle (in progress)
+- Glyph puzzle
