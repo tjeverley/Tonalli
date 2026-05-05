@@ -10,5 +10,5 @@ Current Mechanics Implemented:
 - Capstan ratchet/hoist system
 - Glyph puzzle
 - Pick up gears/cogs
-- Gear/Cog Wall Puzzle (in progress)
+- Gear/Cog Wall Puzzle
 - Game Pad Compatibility
