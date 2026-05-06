@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Documents/gitHubRepo/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GK/NB8A7J2VDWJ0N6I572XJUM.uasset",
+				"H:/Documents/gitHubRepo/Tonalli/Content/Blueprints/Hazards/bp_SpikeTrap.uasset",
+				"H:/Documents/gitHubRepo/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/Documents/gitHubRepo/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DO/QRUJICA8DI7ECZB7RM9KPI.uasset",
+				"H:/Documents/gitHubRepo/Tonalli/Content/Blueprints/Hazards/bp_Dart.uasset",
 				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/Blueprints/BP_MultiLockGate.uasset",
 				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/Blueprints/BP_RatchetSystem.uasset",
 				"F:/GAMR2542_Game Development Team Project/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
