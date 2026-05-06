@@ -6,7 +6,7 @@ Current Mechanics Implemented:
 - Healing
 - Sprinting
 - Stamina reduction & restoration (fixed)
-- Multi-lock gates
+- Multi-lock gates (upgraded to 3 keys)
 - Capstan ratchet/hoist system
 - Glyph puzzle
 - Pick up gears/cogs
