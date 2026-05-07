@@ -12,3 +12,8 @@ Current Mechanics Implemented:
 - Pick up gears/cogs
 - Gear/Cog Wall Puzzle
 - Game Pad Compatibility
+- Spike Traps
+- Dart traps (in progress)
+- Basic UI/HUD
+- Pause
+- Save/Load (in progress)
