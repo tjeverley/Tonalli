@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Levels/WhiteboxPrototype.umap",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/Documents/gitHubRepo/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GK/NB8A7J2VDWJ0N6I572XJUM.uasset",
 				"H:/Documents/gitHubRepo/Tonalli/Content/Blueprints/Hazards/bp_SpikeTrap.uasset",
 				"H:/Documents/gitHubRepo/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
