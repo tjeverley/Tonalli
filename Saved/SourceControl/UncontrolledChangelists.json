@@ -7,7 +7,6 @@
 			"files": [
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Animations/BS_EnemyMelee.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Animations/ABP_EnemyMelee.uasset",
-				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/BP_AI_EnemyMelee.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BP_AI_EnemyMelee.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BT_AI_EnemyMelee.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/EnemyMelee_AIController.uasset",
@@ -25,7 +24,11 @@
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Animations/Mutant_Idle__1_.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Animations/Mutant_Run__1_.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Animations/Mutant_Walking__1_.uasset",
-				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BB_AI.uasset"
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BB_AI.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BTTask_Attack.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/Blueprint/BTTask_AttackPlayer.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Materials/M_Green.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/BP_AI_EnemyMelee.uasset"
 			]
 		}
 	]
