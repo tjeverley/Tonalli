@@ -5,12 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/BP_StoneMeleeGolom.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Levels/WhiteboxPrototype.umap",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/GolemWalk_PhysicsAsset.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/GolemWalk_Skeleton.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/GolemWalk.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/GolemWalk_Anim.uasset"
+=======
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Leaf_tree.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Trunk.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Leaf_tree_Inst.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/55/9QBGERNHFNWB5YREIJTOD1.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/76/LCC561DTJM3HXZMBCEP9FG.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TA/OLSKJ0EFDJ09QYMLPJKQ0Y.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/leaf1.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/leaf2.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/leaf3.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Materials/M_Green.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Tree_1.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Tree_2.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/Fauna/Trees/Tree_3.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
