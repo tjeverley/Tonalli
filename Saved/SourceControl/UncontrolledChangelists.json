@@ -8,14 +8,19 @@
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Blueprints/BP_StoneMeleeGolom.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Levels/WhiteboxPrototype.umap",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneRangedGolem/RangedAnimation/GolemAttack_Ranged_Anim.uasset",
-				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneRangedGolem/RangedAnimation/GolemAttack_Ranged.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneRangedGolem/RangedMesh/GolemAttack_Ranged.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneRangedGolem/RangedMesh/GolemAttack_Ranged_PhysicsAsset.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Tree_1.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Mesh/GolemWalk_Skeleton.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Animations/GolemIdle.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Animations/GolemRun.uasset",
-				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Animations/GolemWalk_Anim.uasset"
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneMeleeGolom/Animations/GolemWalk_Anim.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Leaf_tree_Inst1.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Tree_2.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Tree_3.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Leaf_tree_Inst2.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/Fauna/Trees/Leaf_tree_Inst2_Inst.uasset",
+				"H:/Documents/year 2/Git Repo/Tonalli/Content/Characters/Enemies/StoneRangedGolem/RangedAnimation/GolemAttack_Ranged.uasset"
 			]
 		}
 	]
