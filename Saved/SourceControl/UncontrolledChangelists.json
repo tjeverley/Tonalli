@@ -8,6 +8,16 @@
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Idle_Skeleton.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Idle_PhysicsAsset.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Idle.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Crouched_Walking.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Heavy_attack.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Idle_Anim_mixamo_com.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Jumping_Up.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/light_attack.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Run.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Walk.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/TexturesMats/Body_Pantstexture2.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/TexturesMats/Masktexture.uasset",
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/TexturesMats/Weapontexture.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Animations/Jumping_Up.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Animations/light_attack.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Animations/Walk.uasset",
@@ -17,14 +27,7 @@
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Mats/Weapontexture.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Mats/Masktexture.uasset",
 				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Mats/Body_Pantstexture2.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Animations/Crouched_Walking.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Crouched_Walking.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Heavy_attack.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Idle_Anim_mixamo_com.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Jumping_Up.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/light_attack.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Run.uasset",
-				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Walk.uasset"
+				"D:/Tonalli Final year2 game/Tonalli/Content/Assets/PlayerCharacter/Animations/Crouched_Walking.uasset"
 			]
 		}
 	]
