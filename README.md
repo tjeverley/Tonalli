@@ -3,7 +3,7 @@ Third Person Puzzle Platformer with themes of Central American Mythology
 
 Current Mechanics Implemented:
 - Pick up items
-- Healing
+- Healing (health items added)
 - Sprinting
 - Stamina reduction & restoration (fixed)
 - Multi-lock gates (upgraded to 3 keys)
@@ -13,7 +13,12 @@ Current Mechanics Implemented:
 - Gear/Cog Wall Puzzle
 - Game Pad Compatibility
 - Spike Traps
-- Dart traps (in progress)
+- Dart traps
 - Basic UI/HUD
 - Pause
-- Save/Load (in progress)
+- Save/Load
+- Custom Player model & animations
+- Custom Enemy models and animations
+- Enemy AI
+- Combat mechanics (in progress)
+- Messages/Dialogue system (in progress)
