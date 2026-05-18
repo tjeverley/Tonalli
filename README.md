@@ -21,4 +21,4 @@ Current Mechanics Implemented:
 - Custom Enemy models and animations
 - Enemy AI
 - Combat mechanics (in progress)
-- Messages/Dialogue system (in progress)
+- Messages/Dialogue system
