@@ -22,3 +22,4 @@ Current Mechanics Implemented:
 - Enemy AI
 - Combat mechanics (in progress)
 - Messages/Dialogue system
+- Upgrade System
