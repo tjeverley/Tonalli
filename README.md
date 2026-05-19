@@ -16,10 +16,10 @@ Current Mechanics Implemented:
 - Dart traps
 - Basic UI/HUD
 - Pause
-- Save/Load
+- Save/Load (Autosave added)
 - Custom Player model & animations
 - Custom Enemy models and animations
 - Enemy AI
-- Combat mechanics (in progress)
+- Combat mechanics (mostly complete)
 - Messages/Dialogue system
 - Upgrade System
