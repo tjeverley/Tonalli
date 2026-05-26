@@ -16,7 +16,7 @@ Current Mechanics Implemented:
 - Dart traps
 - Basic UI/HUD
 - Pause
-- Save/Load (Autosave added)
+- Save/Load (Autosave added; opened doors tracked)
 - Custom Player model & animations
 - Custom Enemy models and animations
 - Enemy AI
