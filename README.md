@@ -23,3 +23,4 @@ Current Mechanics Implemented:
 - Combat mechanics (mostly complete)
 - Messages/Dialogue system
 - Upgrade System
+- Tutorial System
