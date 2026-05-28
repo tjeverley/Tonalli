@@ -6,9 +6,9 @@ Current Mechanics Implemented:
 - Healing (health items added)
 - Sprinting
 - Stamina reduction & restoration (fixed)
-- Multi-lock gates (upgraded to 3 keys)
+- Multi-lock gates (upgraded to 3 keys; 4 key variant)
 - Capstan ratchet/hoist system
-- Glyph puzzle
+- Glyph puzzle (4 and 8 glyph variants)
 - Pick up gears/cogs
 - Gear/Cog Wall Puzzle
 - Game Pad Compatibility
@@ -23,3 +23,4 @@ Current Mechanics Implemented:
 - Combat mechanics (mostly complete)
 - Messages/Dialogue system
 - Upgrade System
+- Tutorial System
