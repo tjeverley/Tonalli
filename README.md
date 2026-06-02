@@ -24,3 +24,5 @@ Current Mechanics Implemented:
 - Messages/Dialogue system
 - Upgrade System
 - Tutorial System
+- Rotation/Ring Puzle
+- Bridge Puzzle (in progress)
