@@ -27,18 +27,21 @@ Current Mechanics Implemented:
 - Rotation/Ring Puzle
 - Bridge Puzzle
 
-Music Credits:
-Main Menu 
+# Music Credits:
+Main Menu
+
 Tribal Shamanic Mystical Ethnic Ritual Native Indians Ancestral Music
 https://pixabay.com/music/world-tribal-shamanic-mystical-ethnic-ritual-native-indians-ancestral-music-363111/
 Denis Pavlov
 
 Level 1
+
 Cinematic Adventure 
 https://pixabay.com/music/modern-classical-cinematic-adventure-496546/
 Dmitrii Kolesnikov 
 
 Level 2 
+
 Ethnic Tribal Jungle Music
 https://pixabay.com/music/percussion-ethnic-tribal-jungle-music-495619/
 FreeMusicForVideo
@@ -50,6 +53,7 @@ https://pixabay.com/music/upbeat-desert-caravan-ii-eastern-fusion-mix-228491/
 Oliver Dee
 
 Level 4 
+
 Cold Heart
 https://pixabay.com/music/solo-piano-cold-heart-145221/
 Dmitrii Kolesnikov 
