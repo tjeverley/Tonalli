@@ -25,4 +25,4 @@ Current Mechanics Implemented:
 - Upgrade System
 - Tutorial System
 - Rotation/Ring Puzle
-- Bridge Puzzle (in progress)
+- Bridge Puzzle
