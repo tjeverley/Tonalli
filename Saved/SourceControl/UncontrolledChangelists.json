@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/SaveGame/BP_GameInstance.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/UI/HUD/WBP_HUD.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/UI/Menus/WBP_UpgradeMenu.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/SaveGame/BP_UpgradeTracker.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/SaveGame/BP_GameSettings.uasset",
+				"G:/GAMR2542_Game Development Team Project/Tonalli/Content/UI/Menus/WBP_SettingsMenu.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/Assets/PlayerCharacter/Player_Animations/ABP_Player_Character.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/Documents/year 2/Git Repo/Tonalli/Content/UI/Menus/WBP_UpgradeMenu.uasset",
